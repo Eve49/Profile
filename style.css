@@ -1,0 +1,134 @@
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
+body {background-color: #f3f0e8;
+}
+ .container {
+  width: 700px;
+  margin: 0px auto;
+}
+
+  #picture-circle{
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-right: 58px;
+  }
+
+   p{
+      font-family: 'Lora';
+      color: #575F7D;
+      font-size: 20px;
+      margin-top: auto;
+   }
+
+   a {
+    font-size: 16px;
+    color: white;
+    font-family: 'Roboto';
+
+  }
+  h2{ color: #7ECE90;
+    font-size: 20px;
+    font-family: 'Roboto';
+    text-align: center;
+  }
+
+  .card-white {
+     background: white;
+     padding: 10px;
+     border: 4px;
+     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+     text-align: center;
+     margin: 20px 0px;
+  }
+
+ .container {
+  width: 700px;
+  margin: 0px auto;
+}
+
+  h1 {
+  color: purple;
+  font-size: 32px;
+  font-family:'Roboto';
+  line-height: 10px;
+}
+   p{
+      font-family: 'Lora';
+      color: #575F7D;
+      font-size: 15px;
+   }
+
+   a {
+    font-size: 16px;
+    color: white;
+    font-family: 'Roboto';
+
+  }
+  h2 {
+    color: purple
+    font-size: 20px;
+    font-family: 'Roboto';
+    text-align: center;
+    margin-top: auto;
+  }
+
+  .card-white {
+     background: white;
+     padding: 15px;
+     border: 4px;
+     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+     text-align: center;
+     margin: 20px 0px;
+  }
+
+  .inline-list {
+    list-style: none;
+    padding-left: 0px;
+  }
+  .inline-list li {
+    display: inline;
+    padding: 10px;
+  }
+   #introduction a  {
+    padding: 10px 10px;
+    border-radius: 4px;
+    margin-top: 14px;
+    background-color:#6b72e1;
+
+   }
+   #rss a{
+    font-size: 29px;
+    color:rgb(230,230,230);
+
+   }
+
+   #introduction a  {
+    padding: 10px 10px;
+    border-radius: 4px;
+    margin-top: 14px;
+    background-color:#603576;
+
+   }
+   #rss a{
+    font-size: 29px;
+    color:rgb(160, 139, 176);
+
+   }
